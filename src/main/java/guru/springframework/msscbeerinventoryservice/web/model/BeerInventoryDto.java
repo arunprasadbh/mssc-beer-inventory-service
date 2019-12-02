@@ -19,4 +19,6 @@ public class BeerInventoryDto {
     private OffsetDateTime createdTime;
     private OffsetDateTime updatedTime;
     private UUID beerId;
+    private String upc;
+    private Integer quantityOnHand;
 }
