@@ -16,7 +16,7 @@ import java.util.Date;
 import java.util.UUID;
 
 @Slf4j
-@Component
+//@Component
 @RequiredArgsConstructor
 public class BeerInventoryBootStrap implements CommandLineRunner {
 
