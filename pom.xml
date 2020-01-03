@@ -13,7 +13,6 @@
         <version>1.0.11</version>
     </parent>
 
-
     <groupId>guru.springframework</groupId>
     <artifactId>mssc-beer-inventory-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
